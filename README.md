@@ -2,12 +2,12 @@
 This repo contains various features of building web applications and their solutions with implementation in various programming languages.
 
 ## Features of Web Applications
-- User Interface
-- High level and low level Design 
 - Authentication
 - Storage
 - Messaging
 - Securing Data
+- User Interface
+- High level and low level Design 
 - Testing
 - Scaling
 
