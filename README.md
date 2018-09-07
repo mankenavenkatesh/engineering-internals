@@ -2,12 +2,12 @@
 This repo contains various features of building web applications and their solutions with implementation in various programming languages.
 
 ## Features of Web Applications
-- Authentication (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Authentication)
-- Storage (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
-- Messaging (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
+- Authentication - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Authentication)
+- Storage - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
+- Messaging - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
 - Data Security
 - User Interface
-- Design - High level and low level(https://github.com/mankenavenkatesh/webapp-internals/tree/master/Design)
+- Design : High level and low level - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Design)
 - Testing
 - Scaling
 
