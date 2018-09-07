@@ -7,7 +7,7 @@ This repo contains various features of building web applications and their solut
 - Messaging (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
 - Data Security
 - User Interface
-- Design(High level and low level)
+- Design - High level and low level(https://github.com/mankenavenkatesh/webapp-internals/tree/master/Design)
 - Testing
 - Scaling
 
