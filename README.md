@@ -5,9 +5,9 @@ This repo contains various features of building web applications and their solut
 - Authentication (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Authentication)
 - Storage (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
 - Messaging (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
-- Securing Data
+- Data Security
 - User Interface
-- High level and low level Design 
+- Design(High level and low level)
 - Testing
 - Scaling
 
