@@ -6,6 +6,7 @@ This repo contains various features of building web applications and their solut
 - Storage - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
 - Messaging - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
 - Data Security
+- Proxy
 - User Interface
 - Design : High level and low level - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Design)
 - Testing
