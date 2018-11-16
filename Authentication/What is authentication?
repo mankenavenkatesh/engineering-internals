@@ -1,0 +1,17 @@
+What is Authentication?
+Authentication is the act of confirming the truth of an attribute of a single piece of data claimed true by an entity. In contrast with identification, which refers to the act of stating or otherwise indicating a claim purportedly attesting to a person or thing's identity, authentication is the process of actually confirming that identity. (Wikipedia) 
+
+
+What is Secret Based Authentication?
+In secret-based authentication, parties agree that a secret (S) represents the public identity of a prover (P). When P wants to prove he/she actually is P, all he/she needs to do is to supply S as his/her secret to the second party – verifier (V). Whatever the authentication method is, general methodology is the same: 
+
+The prover sends his/her identity (P) and a secret (S(P)) (for example, login/password pair). 
+The verifier tries to match S(P) with the records in the credential database. 
+For any secret-based authentication, it is important that the parties have a pre-shared secret. 
+
+
+
+References - 
+
+https://www.cossacklabs.com/zero-knowledge-protocols-without-magic.html
+
