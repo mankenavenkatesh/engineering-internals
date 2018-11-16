@@ -1,3 +1,15 @@
 Problem Statement
-doing authentication where no passwords are exchanged
+      Doing authentication where no passwords are exchanged
 
+Solution
+Zero Knowledge Proofs 
+
+What is Zero knowledge proofs
+
+
+
+
+
+References
+- https://hackernoon.com/eli5-zero-knowledge-proof-78a276db9eff
+- https://www.cossacklabs.com/zero-knowledge-protocols-without-magic.html
