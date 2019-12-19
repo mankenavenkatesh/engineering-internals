@@ -11,7 +11,7 @@ This repo contains various features of building applications and their solutions
 - Design : High level and low level - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Design)
 - Testing
 - Scaling
-- Code Reading - https://www.smashingmagazine.com/2011/06/working-with-external-code-libraries/
+- Code Skills - https://github.com/mankenavenkatesh/engineering-internals/tree/master/CodingSkills
 
 ### Approach
 - This repo contains folders for every webapp feature.
