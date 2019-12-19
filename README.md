@@ -11,7 +11,6 @@ This repo contains various features of building web applications and their solut
 - Design : High level and low level - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Design)
 - Testing
 - Scaling
-- Applications End-to-End 
 
 ### Approach
 - This repo contains folders for every webapp feature.
