@@ -1,7 +1,7 @@
-# webapp-internals
-This repo contains various features of building web applications and their solutions with implementation in various programming languages.
+# Engineering-internals
+This repo contains various features of building applications and their solutions with implementation in various programming languages.
 
-## Features of Web Applications
+## Features of Applications
 - Authentication - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Authentication)
 - Storage - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
 - Messaging - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
