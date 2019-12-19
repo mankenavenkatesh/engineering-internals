@@ -11,4 +11,5 @@ The point is that if you want to make sense of code without tearing your hair ou
 References
 - https://www.smashingmagazine.com/2011/06/working-with-external-code-libraries/
 - https://www.spinellis.gr/codereading/
+- http://read.pudn.com/downloads85/ebook/327350/code_reading.pdf
 - https://skorks.com/2010/05/why-i-love-reading-other-peoples-code-and-you-should-too/
