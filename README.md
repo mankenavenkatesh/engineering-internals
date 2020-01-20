@@ -4,6 +4,7 @@ This repo contains various features of building applications and their solutions
 ## Features of Applications
 - Authentication - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Authentication)
 - Storage - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
+- Object-relational mapping 
 - Messaging - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
 - Data Security
 - Proxy
