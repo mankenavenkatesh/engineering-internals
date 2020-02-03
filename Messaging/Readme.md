@@ -4,6 +4,7 @@
 
 # Enterprise integration pattern
 https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://www.enterpriseintegrationpatterns.com/docs/jaoo_hohpeg_enterpriseintegrationpatterns.pdf
 
 
 
