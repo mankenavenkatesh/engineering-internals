@@ -1,0 +1,10 @@
+MQTT Overview
+MQTT (Message Queue Telemetry Transport) was originally developed out of IBM’s pervasive computing team and their work with partners in the industrial sector. Over the past couple of years the protocol has been moved into the open source community, seen significant growth in popularity as mobile applications have taken off, and it is in the process of moving into the hands of a standards body.
+
+The design principles and aims of MQTT are much more simple and focused than those of AMQP—it provides publish-and-subscribe messaging (no queues, in spite of the name) and was specifically designed for resource-constrained devices and low bandwidth, high latency networks such as dial up lines and satellite links, for example. Basically, it can be used effectively in embedded systems.
+
+One of the advantages MQTT has over more full-featured “enterprise messaging” brokers is that its intentionally low footprint makes it ideal for today’s mobile and developing “Internet of Things” style applications. In fact, companies like Facebook are using it as part of their mobile applications because it has such a low power draw and is light on network bandwidth.
+
+Some of the MQTT-based brokers support many thousands of concurrent device connections. It offers three qualities of service: 1) fire-and-forget / unreliable,2) “at least once” to ensure it is sent a minimum of one time (but might be sent more than one time), and 3) “exactly once”.
+
+MQTT’s strengths are simplicity (just five API methods), a compact binary packet payload (no message properties, compressed headers, much less verbose than something text-based like HTTP), and it makes a good fit for simple push messaging scenarios such as temperature updates, stock price tickers, oil pressure feeds or mobile notifications. It is also very useful for connecting machines together, such as connecting an Arduino device to a web service with MQTT.
