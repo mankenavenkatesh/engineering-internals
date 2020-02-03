@@ -1,7 +1,7 @@
 # Engineering-internals
 This repo contains various features of building applications and their solutions with implementation in various programming languages.
 
-## Features of Applications
+## Building Blocks
 - Authentication - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Authentication)
 - Storage - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
 - Object-relational mapping 
