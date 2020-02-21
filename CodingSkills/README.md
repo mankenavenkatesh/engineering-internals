@@ -2,6 +2,7 @@ Coding skills include
 - Writing Clean Code
 - Read and Understand Code
 - Debugging  
+- Logging - https://www.client9.com/structured-logging-in-golang/
 - Thinking through
 
 
