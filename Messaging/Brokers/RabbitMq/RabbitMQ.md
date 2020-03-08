@@ -2,3 +2,4 @@
 Best Practices For Designing Exchanges, Queues And Bindings
 - https://derickbailey.com/2015/09/02/rabbitmq-best-practices-for-designing-exchanges-queues-and-bindings/
 - https://leanpub.com/rabbitmq-structures-and-layout
+- https://www.youtube.com/watch?v=2-PAHoGVW4E
