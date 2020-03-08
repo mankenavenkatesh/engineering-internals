@@ -4,7 +4,7 @@ Coding skills include
 - Debugging  
 - Logging - https://www.client9.com/structured-logging-in-golang/
 - Thinking through
-
+- Improving productivity 
 
 
 Books to read
