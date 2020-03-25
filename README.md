@@ -27,3 +27,4 @@ This repo contains various features of building applications and their solutions
 
 #### References
 https://www.oreilly.com/library/view/production-ready-microservices/9781491965962/ch01.html?utm_source=oreilly&utm_medium=newsite&utm_campaign=monitoring-production-ready-microservices
+https://medium.com/system-designing-interviews
