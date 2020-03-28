@@ -6,7 +6,7 @@ This repo contains various features of building applications and their solutions
 - Storage - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
 - Object-relational mapping 
 - Messaging - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
-- Data Security
+- Security
 - Proxy
 - Rest API - 
 - User Interface
