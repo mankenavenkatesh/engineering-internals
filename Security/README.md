@@ -22,9 +22,22 @@ End-to-end encryption makes sure that a message that is sent is received only by
 
 - https://resources.infosecinstitute.com/basics-of-cryptography-the-practical-application-and-use-of-cryptography/#gref
 - https://medium.com/@BlackwaveLtd/end-to-end-encryption-is-not-secure-without-proper-authentication-67bfa3c8108
-
+- https://protonmail.com/blog/what-is-end-to-end-encryption/
 Real Life applications of Cryptography
 - https://medium.com/@prashanthreddyt1234/real-life-applications-of-cryptography-162ddf2e917d
+
+PGP encryption
+- how to ensure public key belongs to a user?
+- "web of trust"
+- if multiple people endorse the identity, trust the identity. 
+
+Trusting the public keys
+Digital signatures help mitigate sophisticated attacks, but how can a sender know that the public key they’re using belongs to the person they think it does? After all, the server could easily give a bogus public key to the sender.
+
+To solve this problem, we introduced Address Verification, which allows you to share your public key and digitally sign the public keys of others that you have personally verified. These trusted public keys are then securely stored in your encrypted contacts.
+
+Additionally, we’re working on a project called Key Transparency. It will automatically verify the public key of each recipient you send email to, without requiring any manual action. We’ll publish a blog post with more details about this feature once it’s ready.
+
 
 Blind signatures
 - https://en.wikipedia.org/wiki/Blind_signature 
@@ -32,4 +45,4 @@ Blind signatures
 In depth
 - https://crypto.stanford.edu/pbc/notes/crypto/
 - https://crypto.stanford.edu/pbc/notes/
-
+- https://protonmail.com/blog/what-is-pgp-encryption/
