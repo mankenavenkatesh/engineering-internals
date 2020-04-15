@@ -38,6 +38,12 @@ To solve this problem, we introduced Address Verification, which allows you to s
 
 Additionally, we’re working on a project called Key Transparency. It will automatically verify the public key of each recipient you send email to, without requiring any manual action. We’ll publish a blog post with more details about this feature once it’s ready.
 
+Different Types of Attacks
+- https://www.geeksforgeeks.org/difference-between-active-attack-and-passive-attack/?ref=rp
+- https://en.wikipedia.org/wiki/Denial-of-service_attack
+- https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+- https://en.wikipedia.org/wiki/Spoofing_attack
+- https://en.wikipedia.org/wiki/Replay_attack
 
 Blind signatures
 - https://en.wikipedia.org/wiki/Blind_signature 
@@ -46,3 +52,4 @@ In depth
 - https://crypto.stanford.edu/pbc/notes/crypto/
 - https://crypto.stanford.edu/pbc/notes/
 - https://protonmail.com/blog/what-is-pgp-encryption/
+- https://www.youtube.com/watch?v=1Nejm_xaPbI&list=PLLOxZwkBK52Ch0y2lLtfepy4Lt_SVkwo3&index=14
