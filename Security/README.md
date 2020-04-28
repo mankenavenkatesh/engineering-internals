@@ -39,6 +39,7 @@ To solve this problem, we introduced Address Verification, which allows you to s
 Additionally, we’re working on a project called Key Transparency. It will automatically verify the public key of each recipient you send email to, without requiring any manual action. We’ll publish a blog post with more details about this feature once it’s ready.
 
 Different Types of Attacks
+- https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/
 - https://www.geeksforgeeks.org/difference-between-active-attack-and-passive-attack/?ref=rp
 - https://en.wikipedia.org/wiki/Denial-of-service_attack
 - https://en.wikipedia.org/wiki/Man-in-the-middle_attack
