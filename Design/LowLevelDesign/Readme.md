@@ -1,10 +1,10 @@
-Low Level Design
-
-
-
 # Low level design
+### How to approach LowLevelDesign problem?
+- Gather requirements.
+- convert them in functions. 
+- choose one of below approaches and come with respective design
+
 ## object oriented approach
-### Goal of low level design
 - come up with class diagram for a given module.
 - https://en.wikipedia.org/wiki/Class_diagram
 
@@ -19,6 +19,6 @@ Low Level Design
 - " identify verbs "
 
 
-## How to come up with classes?
-- https://en.wikipedia.org/wiki/Conceptual_model
-
+## Difference between Function Oriented and Object Oriented Design
+- Check out Fire-Alarm-System.md
+- https://nptel.ac.in/content/storage2/courses/106105087/pdf/m04L09.pdf
