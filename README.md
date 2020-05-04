@@ -2,22 +2,22 @@
 This repo contains various features of building applications and their solutions with implementation in various programming languages.
 
 ## Building Blocks
-- Authentication - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Authentication)
-- Storage - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
+- [Authentication](https://github.com/mankenavenkatesh/webapp-internals/tree/master/Authentication)
+- [Storage](https://github.com/mankenavenkatesh/webapp-internals/tree/master/Storage)
 - Object-relational mapping 
-- Messaging - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
+- [Messaging](https://github.com/mankenavenkatesh/webapp-internals/tree/master/Messaging)
 - Security
 - Proxy
 - Rest API - 
 - User Interface
-- Design : High level and low level - (https://github.com/mankenavenkatesh/webapp-internals/tree/master/Design)
+- [Design : High level and low level](https://github.com/mankenavenkatesh/webapp-internals/tree/master/Design)
 - Testing
 - Scaling
 - DevOps
 - Data Migrations
-- Coding Skills - https://github.com/mankenavenkatesh/engineering-internals/tree/master/CodingSkills
 - Exception Handling
-- Signal Handling https://www.usna.edu/Users/cs/aviv/classes/ic221/s16/lec/19/lec.html
+- [Signal Handling](https://www.usna.edu/Users/cs/aviv/classes/ic221/s16/lec/19/lec.html)
+- [Productivity Skills](https://github.com/mankenavenkatesh/engineering-internals/tree/master/ProductivitySkills)
 
 ### Approach
 - This repo contains folders for every webapp feature.
