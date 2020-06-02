@@ -31,6 +31,3 @@ remarkably different approaches to software design, yet they do not replace each
 
 - For example, usually we generally apply the top-down function-oriented techniques to design the internal methods
 of a class, once the classes are identified. 
-
-
-

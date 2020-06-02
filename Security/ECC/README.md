@@ -7,3 +7,8 @@ when any user generates his keyPairs `(k, p)`, will he also also executes cyclic
 
 Turns out, that the public key is not calculated by adding G to itself k (private key) times. It is calculated by first changing the k to binary form and multiplying the public key variable by 2 (adding to itself) for each bit while adding G if the current bit has value of one.
 https://en.wikipedia.org/wiki/Elliptic_curve_point_multiplication
+
+
+
+
+
