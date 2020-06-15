@@ -13,3 +13,6 @@ References
 - https://www.spinellis.gr/codereading/
 - http://read.pudn.com/downloads85/ebook/327350/code_reading.pdf
 - https://skorks.com/2010/05/why-i-love-reading-other-peoples-code-and-you-should-too/
+
+- https://www.quora.com/What-is-the-best-way-to-learn-from-open-source-projects
+- https://www.youtube.com/watch?v=cPVu9AJ8gGw
