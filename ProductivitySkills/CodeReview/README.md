@@ -31,3 +31,7 @@ In doing a code review, you should make sure that:
 ```
 
 - https://google.github.io/eng-practices/review/reviewer/looking-for.html
+
+
+## How to read source code?
+- https://www.youtube.com/watch?v=KnuYHTIIt88

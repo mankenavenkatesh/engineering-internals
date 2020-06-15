@@ -28,6 +28,10 @@ Web applications need robust authentication and authorization mechanisms.
 This repo explains most common authentication methods in web application development
 
 ## Authentication Mechanisms 
+- https://www.pingidentity.com/en/company/blog/posts/2016/the-top-6-authentication-mechanisms.html
+
+- https://www.youtube.com/watch?v=j8Yxff6L_po
+
 - [stateless-authentication-with-json-web-tokens](https://github.com/mankenavenkatesh/webapp-internals/blob/master/Authentication/stateless-authentication-with-json-web-tokens)
 
 - https://searchsecurity.techtarget.com/definition/user-authentication#:~:text=User%20authentication%20is%20the%20verification,do%20not%20require%20user%20input.
