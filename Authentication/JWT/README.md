@@ -27,4 +27,9 @@
 
 
 ### Disadvantages of JWT in context of Authorization
+- if some user steals my JWT, they can use it in the header and send requests. There is no way for server to know if it is coming from me or other user.
+- Incase of SESSION_ID, i can log out and my session gets expired on the server.
 - https://www.youtube.com/watch?v=_XbXkVdoG_0
+
+### References
+- https://dzone.com/articles/stateless-authentication-with-json-web-tokens

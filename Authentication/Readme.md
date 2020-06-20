@@ -28,10 +28,33 @@ Web applications need robust authentication and authorization mechanisms.
 This repo explains most common authentication methods in web application development
 
 ## Authentication Mechanisms 
+- Basic Auth
+- Session based authetication
+- JWT
+
+- References
 - https://www.pingidentity.com/en/company/blog/posts/2016/the-top-6-authentication-mechanisms.html
 
 - https://www.youtube.com/watch?v=j8Yxff6L_po
 
 - [stateless-authentication-with-json-web-tokens](https://github.com/mankenavenkatesh/webapp-internals/blob/master/Authentication/stateless-authentication-with-json-web-tokens)
 
-- https://searchsecurity.techtarget.com/definition/user-authentication#:~:text=User%20authentication%20is%20the%20verification,do%20not%20require%20user%20input.
+- https://searchsecurity.techtarget.com/definition/user-authentication#:~:text=User%20authentication%20is%20the%20verification,do%20not%20require%20user%20input
+
+- https://www.youtube.com/watch?v=501dpx2IjGY
+- https://www.youtube.com/watch?v=Tcvsefz5DmA
+
+
+
+
+## Authentication vs Authorization
+ if the authenticating system can verify that the shared secret was presented correctly, the user is considered authenticated. Authorization, by contrast, is the mechanism by which a system determines what level of access a particular authenticated user should have to secured resources controlled by the system.
+ 
+- **Authentication**
+process of defining an identity and the verification of that identity
+
+- **Authorization**
+Determines what an identity can access within a system once it's been authenticated to it
+
+- **Access Control**
+The method and process of how access is granted to a secure resource
