@@ -8,8 +8,7 @@ say_hello:
 generate: 
 	@echo "Creating empty files..."
 	touch file-{1..10}.txt
-	
+
 clean:
 	@echo "Cleaning up..."
 	rm *.txt
-
