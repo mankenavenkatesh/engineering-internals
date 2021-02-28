@@ -16,6 +16,7 @@ This repo contains various features of building applications and their solutions
 - DevOps
 - Data Migrations
 - Exception Handling
+- [Concurrency](https://github.com/mankenavenkatesh/engineering-internals/tree/master/Concurrency)
 - [Signal Handling](https://www.usna.edu/Users/cs/aviv/classes/ic221/s16/lec/19/lec.html)
 - [Productivity Skills](https://github.com/mankenavenkatesh/engineering-internals/tree/master/ProductivitySkills)
 
